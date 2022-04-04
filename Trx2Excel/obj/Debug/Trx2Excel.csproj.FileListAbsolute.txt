@@ -29,3 +29,29 @@ C:\Data\GitHub\Trx2Excel\Trx2Excel\obj\Debug\Trx2Excel.csproj.CoreCompileInputs.
 C:\Data\GitHub\Trx2Excel\Trx2Excel\obj\Debug\Trx2Excel.csproj.CopyComplete
 C:\Data\GitHub\Trx2Excel\Trx2Excel\obj\Debug\Trx2Excel.exe
 C:\Data\GitHub\Trx2Excel\Trx2Excel\obj\Debug\Trx2Excel.pdb
+D:\0 - Odin\UnitTest_VS\Trx2Excel\Trx2Excel\bin\Debug\Trx2Excel.exe.config
+D:\0 - Odin\UnitTest_VS\Trx2Excel\Trx2Excel\bin\Debug\Trx2Excel.exe
+D:\0 - Odin\UnitTest_VS\Trx2Excel\Trx2Excel\bin\Debug\Trx2Excel.pdb
+D:\0 - Odin\UnitTest_VS\Trx2Excel\Trx2Excel\bin\Debug\EPPlus.dll
+D:\0 - Odin\UnitTest_VS\Trx2Excel\Trx2Excel\bin\Debug\log4net.dll
+D:\0 - Odin\UnitTest_VS\Trx2Excel\Trx2Excel\bin\Debug\EPPlus.xml
+D:\0 - Odin\UnitTest_VS\Trx2Excel\Trx2Excel\bin\Debug\log4net.xml
+D:\0 - Odin\UnitTest_VS\Trx2Excel\Trx2Excel\obj\Debug\Trx2Excel.csproj.AssemblyReference.cache
+D:\0 - Odin\UnitTest_VS\Trx2Excel\Trx2Excel\obj\Debug\Trx2Excel.csproj.SuggestedBindingRedirects.cache
+D:\0 - Odin\UnitTest_VS\Trx2Excel\Trx2Excel\obj\Debug\Trx2Excel.csproj.CoreCompileInputs.cache
+D:\0 - Odin\UnitTest_VS\Trx2Excel\Trx2Excel\obj\Debug\Trx2Excel.csproj.CopyComplete
+D:\0 - Odin\UnitTest_VS\Trx2Excel\Trx2Excel\obj\Debug\Trx2Excel.exe
+D:\0 - Odin\UnitTest_VS\Trx2Excel\Trx2Excel\obj\Debug\Trx2Excel.pdb
+D:\00_Odin\UnitTest_VS\Trx2Excel\Trx2Excel\bin\Debug\Trx2Excel.exe.config
+D:\00_Odin\UnitTest_VS\Trx2Excel\Trx2Excel\bin\Debug\Trx2Excel.exe
+D:\00_Odin\UnitTest_VS\Trx2Excel\Trx2Excel\bin\Debug\Trx2Excel.pdb
+D:\00_Odin\UnitTest_VS\Trx2Excel\Trx2Excel\bin\Debug\EPPlus.dll
+D:\00_Odin\UnitTest_VS\Trx2Excel\Trx2Excel\bin\Debug\log4net.dll
+D:\00_Odin\UnitTest_VS\Trx2Excel\Trx2Excel\bin\Debug\EPPlus.xml
+D:\00_Odin\UnitTest_VS\Trx2Excel\Trx2Excel\bin\Debug\log4net.xml
+D:\00_Odin\UnitTest_VS\Trx2Excel\Trx2Excel\obj\Debug\Trx2Excel.csproj.AssemblyReference.cache
+D:\00_Odin\UnitTest_VS\Trx2Excel\Trx2Excel\obj\Debug\Trx2Excel.csproj.SuggestedBindingRedirects.cache
+D:\00_Odin\UnitTest_VS\Trx2Excel\Trx2Excel\obj\Debug\Trx2Excel.csproj.CoreCompileInputs.cache
+D:\00_Odin\UnitTest_VS\Trx2Excel\Trx2Excel\obj\Debug\Trx2Excel.csproj.CopyComplete
+D:\00_Odin\UnitTest_VS\Trx2Excel\Trx2Excel\obj\Debug\Trx2Excel.exe
+D:\00_Odin\UnitTest_VS\Trx2Excel\Trx2Excel\obj\Debug\Trx2Excel.pdb

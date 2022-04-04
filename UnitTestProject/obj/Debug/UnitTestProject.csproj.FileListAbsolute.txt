@@ -19,3 +19,51 @@ C:\Data\GitHub\Trx2Excel\UnitTestProject\obj\Debug\UnitTestProject.csproj.CoreCo
 C:\Data\GitHub\Trx2Excel\UnitTestProject\obj\Debug\UnitTestProject.csproj.CopyComplete
 C:\Data\GitHub\Trx2Excel\UnitTestProject\obj\Debug\UnitTestProject.dll
 C:\Data\GitHub\Trx2Excel\UnitTestProject\obj\Debug\UnitTestProject.pdb
+D:\0 - Odin\UnitTest_VS\Trx2Excel\UnitTestProject\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+D:\0 - Odin\UnitTest_VS\Trx2Excel\UnitTestProject\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+D:\0 - Odin\UnitTest_VS\Trx2Excel\UnitTestProject\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+D:\0 - Odin\UnitTest_VS\Trx2Excel\UnitTestProject\bin\Debug\Microsoft.TestPlatform.AdapterUtilities.dll
+D:\0 - Odin\UnitTest_VS\Trx2Excel\UnitTestProject\bin\Debug\UnitTests\MSTestResultUnkonwOutcome.trx
+D:\0 - Odin\UnitTest_VS\Trx2Excel\UnitTestProject\bin\Debug\UnitTests\MSTestSampleResult.trx
+D:\0 - Odin\UnitTest_VS\Trx2Excel\UnitTestProject\bin\Debug\UnitTests\MSTestSampleResultTwo.trx
+D:\0 - Odin\UnitTest_VS\Trx2Excel\UnitTestProject\bin\Debug\UnitTestProject.dll.config
+D:\0 - Odin\UnitTest_VS\Trx2Excel\UnitTestProject\bin\Debug\UnitTestProject.dll
+D:\0 - Odin\UnitTest_VS\Trx2Excel\UnitTestProject\bin\Debug\UnitTestProject.pdb
+D:\0 - Odin\UnitTest_VS\Trx2Excel\UnitTestProject\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+D:\0 - Odin\UnitTest_VS\Trx2Excel\UnitTestProject\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+D:\0 - Odin\UnitTest_VS\Trx2Excel\UnitTestProject\bin\Debug\Trx2Excel.exe
+D:\0 - Odin\UnitTest_VS\Trx2Excel\UnitTestProject\bin\Debug\EPPlus.dll
+D:\0 - Odin\UnitTest_VS\Trx2Excel\UnitTestProject\bin\Debug\Trx2Excel.pdb
+D:\0 - Odin\UnitTest_VS\Trx2Excel\UnitTestProject\bin\Debug\Trx2Excel.exe.config
+D:\0 - Odin\UnitTest_VS\Trx2Excel\UnitTestProject\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+D:\0 - Odin\UnitTest_VS\Trx2Excel\UnitTestProject\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+D:\0 - Odin\UnitTest_VS\Trx2Excel\UnitTestProject\bin\Debug\EPPlus.xml
+D:\0 - Odin\UnitTest_VS\Trx2Excel\UnitTestProject\obj\Debug\UnitTestProject.csproj.AssemblyReference.cache
+D:\0 - Odin\UnitTest_VS\Trx2Excel\UnitTestProject\obj\Debug\UnitTestProject.csproj.CoreCompileInputs.cache
+D:\0 - Odin\UnitTest_VS\Trx2Excel\UnitTestProject\obj\Debug\UnitTestProject.csproj.CopyComplete
+D:\0 - Odin\UnitTest_VS\Trx2Excel\UnitTestProject\obj\Debug\UnitTestProject.dll
+D:\0 - Odin\UnitTest_VS\Trx2Excel\UnitTestProject\obj\Debug\UnitTestProject.pdb
+D:\00_Odin\UnitTest_VS\Trx2Excel\UnitTestProject\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+D:\00_Odin\UnitTest_VS\Trx2Excel\UnitTestProject\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+D:\00_Odin\UnitTest_VS\Trx2Excel\UnitTestProject\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+D:\00_Odin\UnitTest_VS\Trx2Excel\UnitTestProject\bin\Debug\Microsoft.TestPlatform.AdapterUtilities.dll
+D:\00_Odin\UnitTest_VS\Trx2Excel\UnitTestProject\bin\Debug\UnitTests\MSTestResultUnkonwOutcome.trx
+D:\00_Odin\UnitTest_VS\Trx2Excel\UnitTestProject\bin\Debug\UnitTests\MSTestSampleResult.trx
+D:\00_Odin\UnitTest_VS\Trx2Excel\UnitTestProject\bin\Debug\UnitTests\MSTestSampleResultTwo.trx
+D:\00_Odin\UnitTest_VS\Trx2Excel\UnitTestProject\bin\Debug\UnitTestProject.dll.config
+D:\00_Odin\UnitTest_VS\Trx2Excel\UnitTestProject\bin\Debug\UnitTestProject.dll
+D:\00_Odin\UnitTest_VS\Trx2Excel\UnitTestProject\bin\Debug\UnitTestProject.pdb
+D:\00_Odin\UnitTest_VS\Trx2Excel\UnitTestProject\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+D:\00_Odin\UnitTest_VS\Trx2Excel\UnitTestProject\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+D:\00_Odin\UnitTest_VS\Trx2Excel\UnitTestProject\bin\Debug\Trx2Excel.exe
+D:\00_Odin\UnitTest_VS\Trx2Excel\UnitTestProject\bin\Debug\EPPlus.dll
+D:\00_Odin\UnitTest_VS\Trx2Excel\UnitTestProject\bin\Debug\Trx2Excel.pdb
+D:\00_Odin\UnitTest_VS\Trx2Excel\UnitTestProject\bin\Debug\Trx2Excel.exe.config
+D:\00_Odin\UnitTest_VS\Trx2Excel\UnitTestProject\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+D:\00_Odin\UnitTest_VS\Trx2Excel\UnitTestProject\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+D:\00_Odin\UnitTest_VS\Trx2Excel\UnitTestProject\bin\Debug\EPPlus.xml
+D:\00_Odin\UnitTest_VS\Trx2Excel\UnitTestProject\obj\Debug\UnitTestProject.csproj.AssemblyReference.cache
+D:\00_Odin\UnitTest_VS\Trx2Excel\UnitTestProject\obj\Debug\UnitTestProject.csproj.CoreCompileInputs.cache
+D:\00_Odin\UnitTest_VS\Trx2Excel\UnitTestProject\obj\Debug\UnitTestProject.csproj.CopyComplete
+D:\00_Odin\UnitTest_VS\Trx2Excel\UnitTestProject\obj\Debug\UnitTestProject.dll
+D:\00_Odin\UnitTest_VS\Trx2Excel\UnitTestProject\obj\Debug\UnitTestProject.pdb

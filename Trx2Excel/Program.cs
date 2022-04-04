@@ -13,13 +13,20 @@ namespace Trx2Excel
     {
         static void Main(string[] args)
         {
+            args = new string[2];
+            // *.trx file
+            Console.WriteLine("Input *.trx file name:");
+            args[0] = Console.ReadLine();
+            // *.xlsx file
+            Console.WriteLine("Input *.xlsx file name:");
+            args[1] = Console.ReadLine();
+            
             if (args == null || args.Length < 2)
             {
                 Console.WriteLine("Usage : Trx2Excel.exe <Trx result file location> <Excel file spreadsheet location>");
                 throw new Exception("Illegal Number of Argument");
             }
                
-
             var reader = new TrxReader(args[0]);
             Console.WriteLine("[INFO] : Reading the Trx file : {0}", args[0]);
             var resultList = reader.GetTestResults();
@@ -30,6 +37,7 @@ namespace Trx2Excel
             excelWriter.AddChart(reader.PassCount,reader.FailCount,reader.SkipCount);
             Console.WriteLine("[INFO] : Generating charts : {0}", args[1]);
             Console.WriteLine("[INFO] : Output File : {0}", args[1]);
+            Console.ReadKey();
         }
     }
 }
